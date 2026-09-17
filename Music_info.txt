@@ -1,0 +1,21 @@
+Record_Id, Artist, Title, Medium, Genre, Purchase_Date
+aab01, Gunna , One of Wun, Vinyl, Rap, 2022-10-05
+ddf03, Adel , Hello, CD, Pop, 2021-10-27
+bet14, Rihanna, Work, Cassette, Pop, 2014-10-30
+bba04, Mozart, Lacrimosa, Vinyl, Classical, 2006-05-02
+cdd05, Mariah Carey, Fantasy, Tape, Pop, 2022-01-04
+klm06, Young Thug, Digits, Vinyl, Rap, 2020-07-31
+tbh07, 21 Savage, Bank Account, Tape, Rap, 2020-08-20
+kkk11, Bruno Mars, Grenade, CD, Pop, 2017-02-05
+ffg12, Debussy, Clair de lune, CD, Classical, 2021-09-06
+jpg13, SZA, No Love, Vinyl, R&B, 2017-02-05
+sec08, J Cole, She Knows, Cassette, Rap, 2021-12-20
+bad15, Tems, Me & You, Tape, Afrobeats, 2021-12-21
+dab16, Asake, 2:30, CD, Afrobeats, 2022-08-24
+fag17, Future, Codeine Crazy, Tape, Rap, 2017-05-14
+pfp18, Beethoven, Symphony No. 9, Classical, 2016-04-24
+nin19, Roddy Rich, The Box, Cassette, Rap, 2019-11-16
+cod20, Wizkid, Joro, Tape, Afrobeats, 2022-01-05
+cos09, Jhene Aiko, The Worst, CD, Pop, 2021-03-23
+vin10, Cold Play, Adventure Of A Lifetime, Cassette, Pop, 2018-04-30
+bbd02, Drake, Headlines, Tape, Hip-Hop, 2020-04-23

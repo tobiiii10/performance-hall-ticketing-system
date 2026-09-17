@@ -1,0 +1,20 @@
+MusicID,Rating,Comments
+abb01,4,amazing
+njf01,2,too loud
+bet02,5,Absolutely amazing!
+bet05,4,Not bad
+bet05,4,Not bad
+bet05,4,Not bad
+klm06,4,nice
+
+klm06,4,nicedab16,5,very good record
+dab16,2,shit
+dab16,2,shitcos09,1,bad
+cos09,1,badddf03,4,okay
+
+ddf03,4,okayabb01,5,nice
+
+fag17,5,nbbuceaab01,5,No comment provided
+
+bet14,3,No comment providedbba04,5,No comment provided
+tbh07,3,No comment provided{record_id},{rating},{comments}
